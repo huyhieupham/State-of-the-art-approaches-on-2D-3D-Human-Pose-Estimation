@@ -1,6 +1,6 @@
 # State-of-the-art-approaches on 2D/3D Human Pose Estimation
 
-**Given a single RGB image containing one or several persons, 2D/3D Pose Estimation is the task of producing a 2- or 3-dimentional key points that match the spatial position of the depicted person. This repository provides a list of state-of-the-art scientific papers on 2D/3D Human Pose Estimation from RGB images or videos. The list is being updated.**
+**Given a single RGB image containing one or several persons, 2D/3D Pose Estimation is the task of producing a 2- or 3-dimensional  key points that match the spatial position of the depicted person. This repository provides a list of state-of-the-art scientific papers on 2D/3D Human Pose Estimation from RGB images or videos. The list is being updated.**
 
 
 * Zhou, Xiaowei, Zhu, Menglong, Pavlahos, Georgios, et al.: *"Monocap: Monocular human motion capture using a CNN coupled with a geometric prior"* - IEEE Transactions on Pattern Analysis and Machine Intelligence, **PAMI 2018** ([.pdf](https://arxiv.org/pdf/1701.02354.pdf), [model and code](https://github.com/daniilidis-group/monocap)).
