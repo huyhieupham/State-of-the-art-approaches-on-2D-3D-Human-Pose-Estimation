@@ -1,10 +1,10 @@
 # State-of-the-art-approaches on 2D/3D Human Pose Estimation
 Given a single RGB image containing one or several persons, 2D/3D Pose Estimation is the task of producing a 2- or 3-dimentional key points that match the spatial position of the depicted person. This repository provides a list of state-of-the-art scientific papers on 2D/3D Human Pose Estimation from RGB images or videos. 
 
-* Zhou, Xiaowei, Zhu, Menglong, Pavlahos, Georgios, et al.: "Monocap: Monocular human motion capture using a CNN coupled with a geometric prior" - IEEE Transactions on Pattern Analysis and Machine Intelligence, 2018 ([.pdf](http://google.com), [model and code](https://github.com/daniilidis-group/monocap)).
+* Zhou, Xiaowei, Zhu, Menglong, Pavlahos, Georgios, et al.: *"Monocap: Monocular human motion capture using a CNN coupled with a geometric prior"* - IEEE Transactions on Pattern Analysis and Machine Intelligence, 2018 ([.pdf](https://arxiv.org/pdf/1701.02354.pdf), [model and code](https://github.com/daniilidis-group/monocap)).
 
 
-* Detect-and-Track: Efficient Pose Estimation in Videos, CVPR'2018 (https://rohitgir
+* Girdhar, R., Gkioxari, G., Torresani, L., Paluri, M., & Tran, D.: *"Detect-and-Track: Efficient Pose Estimation in Videos"* - In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2018. ([.pdf](https://arxiv.org/pdf/1712.09184.pdf), [model and code](https://rohitgirdhar.github.io/DetectAndTrack/)) 
 
 * Pavlakos  et al. "Ordinal Depth Supervision for 3D Human Pose Estimation" - CVPR2018 (https://www.seas.upenn.edu/~pavlakos/projects/ordinal/)
 
