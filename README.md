@@ -38,13 +38,21 @@ Given a single RGB image containing one or several persons, 2D/3D Pose Estimatio
 ), [model and code](https://github.com/una-dinosauria/3d-pose-baseline)).
 
 
-* Towards 3D human pose estimation in the wild: A weakly-supervised approach, ICCV'17,
+* Zhou, X., Huang, Q., Sun, X., Xue, X., & Wei, Y.: *"Towards 3d human pose estimation in the wild: a weakly-supervised approach"* - In IEEE International Conference on Computer Vision, 2017 ([.pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhou_Towards_3D_Human_ICCV_2017_paper.pdf
+), [model and code](https://github.com/xingyizhou/pose-hg-3d)).
 
-* Lifting from the deep: Convolutional 3D pose estimation from a single image, CVPR'17, 
 
-* LCR-Net: Localization-classification-regression for human pose, CVPR'17.
+* Tome, Denis and Russell, Chris and Agapito, Lourdes: *"Lifting from the deep: Convolutional 3D pose estimation from a single image"* - IEEE Conference on Computer Vision and Pattern Recognition, 2017.  ([.pdf](https://arxiv.org/pdf/1701.00295.pdf
+), [model and code](https://github.com/DenisTome/Lifting-from-the-Deep-release)).
 
-* Learning Pose Grammar to Encode Human Body Configuration for 3D Pose Estimation, AAAI2017, (https://bitbucket.org/merayxu/3dpose_grammar/src/master/)
 
-* Pishchulin et al. "Poselet Conditioned Pictorial Structures" - CVPR 2013 (https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/people-detection-pose-estimation-and-tracking/poselet-conditioned-pictorial-structures/)
+* Gregory Rogez, Philippe Weinzaepfel, Cordelia Schmid: *"LCR-Net: Localization-classification-regression for human pose"* - IEEE Conference on Computer Vision and Pattern Recognition, 2017 ([.pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Rogez_LCR-Net_Localization-Classification-Regression_for_CVPR_2017_paper.pdf), [model and code](https://thoth.inrialpes.fr/src/LCR-Net/)).
+
+
+* Rogez, G., Weinzaepfel, P., & Schmid, C.: *"LCR-Net++: Multi-person 2D and 3D Pose Detection in Natural Images"*. arXiv preprint, 2018  ([.pdf](https://arxiv.org/pdf/1803.00455.pdf), [model and code](https://thoth.inrialpes.fr/src/LCR-Net/)).
+
+
+* Hao-Shu Fang, Yuanlu Xu, Wenguan Wang, Xiaobai Liu, Song-Chun Zhu: *"Learning Pose Grammar to Encode Human Body Configuration for 3D Pose Estimation"* - ([.pdf](https://arxiv.org/pdf/1710.06513.pdf), [model and code(https://bitbucket.org/merayxu/3dpose_grammar/src/master/)).
+
+* Pishchulin, L., Andriluka, M., Gehler, P., & Schiele, B.: *"Poselet conditioned pictorial structures"* - IEEE Conference on Computer Vision and Pattern Recognition, 2013 ([.pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Pishchulin_Poselet_Conditioned_Pictorial_2013_CVPR_paper.pdf), [model and code(https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/people-detection-pose-estimation-and-tracking/poselet-conditioned-pictorial-structures/)).
 
