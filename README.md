@@ -28,13 +28,15 @@ Given a single RGB image containing one or several persons, 2D/3D Pose Estimatio
 * Pavlakos, G., Zhou, X., Derpanis, K. G., & Daniilidis, K.: *"Coarse-to-fine volumetric prediction for single-image 3D human pose"* - IEEE Conference on Computer Vision and Pattern Recognition, 2017 ([.pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Pavlakos_Coarse-To-Fine_Volumetric_Prediction_CVPR_2017_paper.pdf), [model and code](https://www.seas.upenn.edu/~pavlakos/projects/volumetric/)).
 
 
-* Pavlakos, Georgios and Zhou, Xiaowei and Derpanis, Konstantinos G and Daniilidis, Kostas: *" "* 
+* Pavlakos, Georgios and Zhou, Xiaowei and Derpanis, Konstantinos G and Daniilidis, Kostas: *"Harvesting Multiple Views for Marker-less 3D Human Pose Annotations"* - IEEE Conference on Computer Vision and Pattern Recognition, 2017 ([.pdf](https://www.seas.upenn.edu/~pavlakos/projects/harvesting/files/harvesting.pdf), [model and code](https://github.com/geopavlakos/harvesting/)).
 
-(https://www.seas.upenn.edu/~pavlakos/projects/harvesting/)
 
-* Ning et al. "Knowledege-guide deep fractal neural network for human pose estimation" IEEE Transactions on Multimedia 2017 (https://github.com/Guanghan/GNet-pose)
+* Ning, G., Zhang, Z., & He, Z.: *"Knowledge-guided deep fractal neural networks for human pose estimation"* - IEEE Transactions on Multimedia, 2017 ([.pdf](https://arxiv.org/pdf/1705.02407.pdf), [model and code] (https://github.com/Guanghan/GNet-pose)).
 
-* A simple yet effective baseline for 3D human pose estimation, ICCV'17, 
+
+* Martinez, Julieta and Hossain, Rayat and Romero, Javier and Little, James J.: *"A simple yet effective baseline for 3D human pose estimation"* - International Conference on Computer Vision, 2017 ([.pdf](https://arxiv.org/pdf/1705.03098.pdf
+), [model and code] (https://github.com/una-dinosauria/3d-pose-baseline)).
+
 
 * Towards 3D human pose estimation in the wild: A weakly-supervised approach, ICCV'17,
 
