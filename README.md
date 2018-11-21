@@ -18,15 +18,19 @@ Given a single RGB image containing one or several persons, 2D/3D Pose Estimatio
 * Pishchulin, L., Insafutdinov, E., Tang, S., Andres, B., Andriluka, M., Gehler, P. V., & Schiele, B.: *"Deepcut: Joint subset partition and labeling for multi person pose estimation"* - IEEE Conference on Computer Vision and Pattern Recognition, 2016 ([.pdf](http://pose.mpi-inf.mpg.de/contents/pishchulin16cvpr.pdf), [model and code](http://pose.mpi-inf.mpg.de/)).
 
 
-* Lifshits et al. "Human Pose Estimation using Deep Consensus Voting" - Cham, 2016
+* Lifshits et al. "Human Pose Estimation using Deep Consensus Voting" - European Conference on Computer Vision, 2016 ([.pdf](https://arxiv.org/pdf/1603.08212.pdf), [model and code](https://github.com/italif/deep-voting-hpe)).
 
-* Newell et al. "Stacked Hourglass Networks for Human Pose Estimation" - ECCV 2016 (https://github.com/princeton-vl/pose-hg-demo)
 
-* Mehta et al. "Vnect: Real-time 3D Human Pose Estimation with a single RGB camera" - ACM Transactions on Grapphic, 2017. (http://gvv.mpi-inf.mpg.de/projects/VNect/)
+* Newell, A., Yang, K., & Deng, J.: *"Stacked hourglass networks for human pose estimation"* - European Conference on Computer Vision 2016 ([.pdf](https://arxiv.org/pdf/1603.06937.pdf), [model and code](https://github.com/princeton-vl/pose-hg-demo)).
 
-* Pavlakos et al. "Coarse-to-fine volumetric prediction for single image 3D human pose" - CVPR2017 (https://www.seas.upenn.edu/~pavlakos/projects/volumetric/)
+* Mehta, D., Sridhar, S., Sotnychenko, O., Rhodin, H., Shafiei, M., Seidel, H. P. et al.: *"Vnect: Real-time 3d human pose estimation with a single rgb camera"* - ACM Transactions on Graphics 2017, ([.pdf](https://arxiv.org/pdf/1705.01583.pdf), [model and code](http://gvv.mpi-inf.mpg.de/projects/VNect/)).
 
-* Pavlakos et al.  "Harvesting Multiple Views for Marker-less 3D Human Pose Annotations" - CVPR2017 (https://www.seas.upenn.edu/~pavlakos/projects/harvesting/)
+* Pavlakos, G., Zhou, X., Derpanis, K. G., & Daniilidis, K.: *"Coarse-to-fine volumetric prediction for single-image 3D human pose"* - IEEE Conference on Computer Vision and Pattern Recognition, 2017 ([.pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Pavlakos_Coarse-To-Fine_Volumetric_Prediction_CVPR_2017_paper.pdf), [model and code](https://www.seas.upenn.edu/~pavlakos/projects/volumetric/)).
+
+
+* Pavlakos, Georgios and Zhou, Xiaowei and Derpanis, Konstantinos G and Daniilidis, Kostas: *" "* 
+
+(https://www.seas.upenn.edu/~pavlakos/projects/harvesting/)
 
 * Ning et al. "Knowledege-guide deep fractal neural network for human pose estimation" IEEE Transactions on Multimedia 2017 (https://github.com/Guanghan/GNet-pose)
 
