@@ -57,7 +57,7 @@
 * Gregory Rogez, Philippe Weinzaepfel, Cordelia Schmid: *"LCR-Net: Localization-classification-regression for human pose"* - IEEE Conference on Computer Vision and Pattern Recognition, **CVPR 2017** ([.pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Rogez_LCR-Net_Localization-Classification-Regression_for_CVPR_2017_paper.pdf), [model and code](https://thoth.inrialpes.fr/src/LCR-Net/)).
 
 
-* Pishchulin, L., Andriluka, M., Gehler, P., & Schiele, B.: *"Poselet conditioned pictorial structures"* - IEEE Conference on Computer Vision and Pattern Recognition, **CVPR 2013** ([.pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Pishchulin_Poselet_Conditioned_Pictorial_2013_CVPR_paper.pdf), [model and code](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/people-detection-pose-estimation-and-tracking/poselet-conditioned-pictorial-structures/)).
+* Bugra Tekin, Pablo Marquez-Neila, Mathieu Salzmann Pascal Fua: *"Learning to Fuse 2D and 3D Image Cues for Monocular Body Pose Estimation"* - International Conference on Computer Vision, **ICCV 2017** ([.pdf](https://arxiv.org/pdf/1611.05708v1.pdf), [model and code](https://drive.switch.ch/index.php/s/jvPwlyJUb4lxR0M)).
 
 
 * Martinez, Julieta, Michael J. Black, and Javier Romero: *"On human motion prediction using recurrent neural networks"* - IEEE Conference on Computer Vision and Pattern Recognition, **CVPR 2017** ([.pdf](https://arxiv.org/pdf/1705.02445.pdf), [model and code](https://github.com/una-dinosauria/human-motion-prediction)).
@@ -72,6 +72,7 @@
 * Newell, A., Yang, K., & Deng, J.: *"Stacked hourglass networks for human pose estimation"* - European Conference on Computer Vision, **ECCV 2016** ([.pdf](https://arxiv.org/pdf/1603.06937.pdf), [model and code](https://github.com/princeton-vl/pose-hg-demo)).
 
 
+* Pishchulin, L., Andriluka, M., Gehler, P., & Schiele, B.: *"Poselet conditioned pictorial structures"* - IEEE Conference on Computer Vision and Pattern Recognition, **CVPR 2013** ([.pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Pishchulin_Poselet_Conditioned_Pictorial_2013_CVPR_paper.pdf), [model and code](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/people-detection-pose-estimation-and-tracking/poselet-conditioned-pictorial-structures/)).
 
 
 
