@@ -4,13 +4,19 @@ Given a single RGB image containing one or several persons, 2D/3D Pose Estimatio
 * Zhou, Xiaowei, Zhu, Menglong, Pavlahos, Georgios, et al.: *"Monocap: Monocular human motion capture using a CNN coupled with a geometric prior"* - IEEE Transactions on Pattern Analysis and Machine Intelligence, 2018 ([.pdf](https://arxiv.org/pdf/1701.02354.pdf), [model and code](https://github.com/daniilidis-group/monocap)).
 
 
-* Girdhar, R., Gkioxari, G., Torresani, L., Paluri, M., & Tran, D.: *"Detect-and-Track: Efficient Pose Estimation in Videos"* - In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2018. ([.pdf](https://arxiv.org/pdf/1712.09184.pdf), [model and code](https://rohitgirdhar.github.io/DetectAndTrack/)) 
+* Girdhar, R., Gkioxari, G., Torresani, L., Paluri, M., & Tran, D.: *"Detect-and-Track: Efficient Pose Estimation in Videos"* - In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2018 ([.pdf](https://arxiv.org/pdf/1712.09184.pdf), [model and code](https://rohitgirdhar.github.io/DetectAndTrack/)).
 
-* Pavlakos  et al. "Ordinal Depth Supervision for 3D Human Pose Estimation" - CVPR2018 (https://www.seas.upenn.edu/~pavlakos/projects/ordinal/)
+* Pavlakos, Georgios and Zhou, Xiaowei and Daniilidis, Kostas: *"Ordinal Depth Supervision for 3D Human Pose Estimation"* - Computer Vision and Pattern Recognition 2018, ([.pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Pavlakos_Ordinal_Depth_Supervision_CVPR_2018_paper.pdf), [model and code](https://www.seas.upenn.edu/~pavlakos/projects/ordinal/)).
 
-* Zhou et al. "Human Motion Capture Using a Drone" - CVPR2018 (https://www.seas.upenn.edu/~pavlakos/projects/humanshape/)
 
-* Pishchulin et al. "DeepCut: Joint Subset Partion and Labeling for Multi Person Pose Estimation" - CVPR 2016. (http://pose.mpi-inf.mpg.de/)
+* Pavlakos, Georgios and Zhu, Luyang and Zhou, Xiaowei and Daniilidis, Kostas: *"Learning to Estimate 3{D} Human Pose and Shape from a Single Color Image"* - Computer Vision and Pattern Recognition 2018, ([.pdf](https://arxiv.org/pdf/1805.04092.pdf), [project page](https://www.seas.upenn.edu/~pavlakos/projects/humanshape/)).
+
+
+* X. Zhou, S. Liu, G. Pavlakos, V.J. Kumar, K. Daniilidis: *"Human Motion Capture Using a Drone"* - IEEE International Conference on Robotics and Automation (ICRA), 2018 ([.pdf](http://www.cis.upenn.edu/~kostas/mypub.dir/xiaowei18icra.pdf), [model and code](https://github.com/daniilidis-group/drocap)).
+
+
+* Pishchulin, L., Insafutdinov, E., Tang, S., Andres, B., Andriluka, M., Gehler, P. V., & Schiele, B.: *"Deepcut: Joint subset partition and labeling for multi person pose estimation"* - IEEE Conference on Computer Vision and Pattern Recognition, 2016 ([.pdf](http://pose.mpi-inf.mpg.de/contents/pishchulin16cvpr.pdf), [model and code](http://pose.mpi-inf.mpg.de/)).
+
 
 * Lifshits et al. "Human Pose Estimation using Deep Consensus Voting" - Cham, 2016
 
