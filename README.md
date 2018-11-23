@@ -1,6 +1,10 @@
 # State-of-the-art-approaches on 2D/3D Human Pose Estimation
 
+** Problem definition **
+
 **Given a single RGB image containing one or several persons, 2D/3D Pose Estimation is the task of producing a 2- or 3-dimensional  key points that match the spatial position of the depicted person. This repository provides a list of state-of-the-art scientific papers on 2D/3D Human Pose Estimation from RGB images or videos. The list is being updated.**
+
+** Papers ** 
 
 
 * Zhou, Xiaowei, Zhu, Menglong, Pavlahos, Georgios, et al.: *"Monocap: Monocular human motion capture using a CNN coupled with a geometric prior"* - IEEE Transactions on Pattern Analysis and Machine Intelligence, **PAMI 2018** ([.pdf](https://arxiv.org/pdf/1701.02354.pdf), [model and code](https://github.com/daniilidis-group/monocap)).
@@ -75,7 +79,13 @@
 * Pishchulin, L., Andriluka, M., Gehler, P., & Schiele, B.: *"Poselet conditioned pictorial structures"* - IEEE Conference on Computer Vision and Pattern Recognition, **CVPR 2013** ([.pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Pishchulin_Poselet_Conditioned_Pictorial_2013_CVPR_paper.pdf), [model and code](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/people-detection-pose-estimation-and-tracking/poselet-conditioned-pictorial-structures/)).
 
 
+** Datasets ** 
 
+* Human3.6M dataset (http://vision.imar.ro/human3.6m/description.php)
+
+* HumanEva dataset (http://humaneva.is.tue.mpg.de/)
+
+* MPII Human Pose dataset (http://human-pose.mpi-inf.mpg.de/)
 
 
 
